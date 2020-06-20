@@ -1,1 +1,1 @@
-# mrspencerdiscordbot
+# Mr. Spencer Discord Bot!
